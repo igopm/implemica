@@ -1,3 +1,5 @@
+package com.mi.implemica.task1;
+
 import java.util.Scanner;
 
 /**
