@@ -10,8 +10,7 @@ import java.math.BigInteger;
 
 public class Task3 {
     public static void main(String[] args) {
-        String string = factorial(100).toString();
-        System.out.println(aountNumber(string));
+        System.out.println(countNumber(factorial(100).toString()));
     }
 
     // calculation of factorial numbers
@@ -22,8 +21,8 @@ public class Task3 {
         return result;
     }
 
-    // calculation of numbers
-    public static int aountNumber(String string) {
+    // calculation sum of numbers
+    public static int countNumber(String string) {
         int count = 0;
         for (int i = 0; i < string.length(); i++) {
             String temp = String.valueOf(string.charAt(i));
@@ -32,5 +31,4 @@ public class Task3 {
         }
         return count;
     }
-    //
 }

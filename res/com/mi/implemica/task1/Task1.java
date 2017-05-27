@@ -32,11 +32,11 @@ public class Task1 {
         String lineBrackets = scanner.next();
         char controlBracket = '(';
         int countBrackets = 0;
-        // The counter opend bracket
+        // The counter of opened bracket
         int openBracket = 0;
-        // The counter closed bracket
+        // The counter of closed bracket
         int closedBracket = 0;
-        // the number of pairs of brackets
+        // The number of pairs of brackets
         int pairsBrackets = 0;
         // check the first and last characters
         if (lineBrackets.charAt(lineBrackets.length() - 1) == controlBracket) {
@@ -46,20 +46,14 @@ public class Task1 {
         } else {
             // start check all values
             for (int i = 0; i < lineBrackets.length(); i++) {
-
                 if (lineBrackets.charAt(i) == controlBracket) {
                     countBrackets = countBrackets + 1;
                     openBracket = openBracket + 1;
-                    if (countBrackets == 0) {
-                        pairsBrackets = pairsBrackets + 1;
-                    }
-
                 } else if (lineBrackets.charAt(i) != controlBracket) {
                     {
                         countBrackets = countBrackets - 1;
                         closedBracket = closedBracket + 1;
                     }
-
                 }
             }
             if (openBracket == closedBracket) {
@@ -72,7 +66,7 @@ public class Task1 {
             }
 
         }
-        // the scanner must be closed
+        //close scanner
         scanner.close();
     }
 

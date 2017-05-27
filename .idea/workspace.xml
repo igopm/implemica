@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ce2cb1-d65d-45d9-8af6-37a96f498c86" name="Default" comment="">
+    <list default="true" id="40ce2cb1-d65d-45d9-8af6-37a96f498c86" name="Default" comment="Task">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/implemica/com/mi/implemica/task1/Task1.class" afterPath="$PROJECT_DIR$/out/production/implemica/com/mi/implemica/task1/Task1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/implemica/com/mi/implemica/task3/Task3.class" afterPath="$PROJECT_DIR$/out/production/implemica/com/mi/implemica/task3/Task3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java" afterPath="$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java" afterPath="$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java" />
     </list>
     <ignored path="implemica.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +32,18 @@
       <file leaf-file-name="Task3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="196">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -68,7 +82,6 @@
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/x.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/InvalidFileFormatException.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/TaskAbstract.java" />
-        <option value="$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/Task3.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/Task3.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/TaskAbstract.java" />
@@ -84,6 +97,7 @@
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/Task2.java" />
         <option value="$PROJECT_DIR$/data/task201.out" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java" />
+        <option value="$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java" />
       </list>
     </option>
   </component>
@@ -153,9 +167,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -228,6 +242,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="implemica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="implemica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="implemica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -267,7 +303,7 @@
       <recent name="com.mi.implemica.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task1">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -753,7 +789,9 @@
       <updated>1495746236854</updated>
       <workItem from="1495746239725" duration="8286000" />
       <workItem from="1495801840215" duration="6225000" />
-      <workItem from="1495896171539" duration="2739000" />
+      <workItem from="1495896171539" duration="2912000" />
+      <workItem from="1495902144319" duration="565000" />
+      <workItem from="1495903451743" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <created>1495748722277</created>
@@ -822,32 +860,32 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17250000" />
+    <option name="totallyTimeSpent" value="18125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.50851583" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -866,7 +904,8 @@
     <MESSAGE value="Task2" />
     <MESSAGE value="Task2, Task3" />
     <MESSAGE value="Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task3" />
+    <MESSAGE value="Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -879,14 +918,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task2/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1824#1830#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,7 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,11 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -980,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="64" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,17 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-144">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1006,16 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#1315#1316#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1669#1670#0" expanded="true" />
-            <element signature="e#1701#1702#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,18 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#1623#1624#0" expanded="false" />
-            <element signature="e#1712#1713#0" expanded="false" />
-            <element signature="e#1784#1785#0" expanded="false" />
-            <element signature="e#1813#1814#0" expanded="false" />
-            <element signature="e#2069#2070#0" expanded="false" />
-            <element signature="e#2105#2106#0" expanded="false" />
-            <element signature="e#2307#2308#0" expanded="false" />
-            <element signature="e#2334#2335#0" expanded="false" />
-            <element signature="e#2532#2533#0" expanded="false" />
-            <element signature="e#2557#2558#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,10 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2524">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5991#5997#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,37 +1070,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/task201.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/task201.out.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task201.out.html" />
     <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task2/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="127" column="28" selection-start-line="127" selection-start-column="28" selection-end-line="127" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1824#1830#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1094,14 +1089,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task1/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="196">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding />
         </state>
       </provider>
