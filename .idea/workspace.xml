@@ -28,8 +28,8 @@
       <file leaf-file-name="Task3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="213">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -79,11 +79,11 @@
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/FloydWarshall.java" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/LoggerHelper.java" />
         <option value="$PROJECT_DIR$/data/Task201.in" />
-        <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java" />
         <option value="$PROJECT_DIR$/data/task201.in" />
         <option value="$PROJECT_DIR$/data/task201.out.html" />
         <option value="$PROJECT_DIR$/res/com/mi/implemica/task2/Task2.java" />
         <option value="$PROJECT_DIR$/data/task201.out" />
+        <option value="$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java" />
       </list>
     </option>
   </component>
@@ -267,7 +267,7 @@
       <recent name="com.mi.implemica.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -753,7 +753,7 @@
       <updated>1495746236854</updated>
       <workItem from="1495746239725" duration="8286000" />
       <workItem from="1495801840215" duration="6225000" />
-      <workItem from="1495896171539" duration="2610000" />
+      <workItem from="1495896171539" duration="2713000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <created>1495748722277</created>
@@ -804,11 +804,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495899955280</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task2, Task3">
+      <created>1495900186969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1495900186969</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17121000" />
+    <option name="totallyTimeSpent" value="17224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1086,8 +1093,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/com/mi/implemica/task3/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="213">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding />
         </state>
       </provider>
