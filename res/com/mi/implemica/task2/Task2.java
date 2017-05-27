@@ -118,18 +118,11 @@ public class Task2 extends TaskAbstract implements ITask {
         } finally {
             out.close();
         }
-//        for (Data data : graphs) {
-//            System.out.println("----------------");
-//            System.out.println(data.cities);
-//            System.out.println(data.edges);
-//            System.out.println(data.rutes);
-//            System.out.println(data.listPath);
-//        }
+
     }
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        // LoggerHelper.createFileLoger(Task2.class.getName(), "task2.log");
         String nameFileIn;
         String nameFileOut;
         if (args.length == 2) {
